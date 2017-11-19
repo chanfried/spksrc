@@ -1,5 +1,5 @@
 PKG_NAME = opencore-amr
-PKG_VERS = 0.1.3
+PKG_VERS = 0.1.5
 PKG_EXT = tar.gz
 PKG_DIST_NAME = $(PKG_NAME)-$(PKG_VERS).$(PKG_EXT)
 PKG_DIST_SITE = https://sourceforge.net/projects/opencore-amr/files/$(PKG_NAME)

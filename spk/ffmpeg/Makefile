@@ -1,8 +1,8 @@
 SPK_NAME = ffmpeg
-SPK_VERS = 3.3.3
-SPK_REV = 7
+SPK_VERS = 3.4
+SPK_REV = 0
 SPK_ICON = src/ffmpeg.png
-CHANGELOG = "1. Update ffmpeg to 3.3.3  2. Produces libavresample for tvheadend"
+CHANGELOG = "1. Update ffmpeg to 3.4"
 
 DEPENDS = cross/$(SPK_NAME)
 
