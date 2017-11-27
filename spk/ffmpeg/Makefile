@@ -1,6 +1,6 @@
 SPK_NAME = ffmpeg
 SPK_VERS = 3.4
-SPK_REV = 0
+SPK_REV = 1
 SPK_ICON = src/ffmpeg.png
 CHANGELOG = "Update ffmpeg to 3.4"
 

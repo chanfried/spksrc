@@ -1,6 +1,6 @@
 PKG_NAME = libnuma
 PKG_VERS = 2.0.11
-PKG_EXT = tar.gz
+PKG_EXT = tar.bz2
 PKG_DIST_NAME = numactl-$(PKG_VERS).$(PKG_EXT)
 PKG_DIST_SITE = ftp://oss.sgi.com/www/projects/libnuma/download
 PKG_DIR = numactl-$(PKG_VERS)
